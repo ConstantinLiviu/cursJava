@@ -36,7 +36,6 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-20",
     "kotlin-language-version-configured": "true"
   }

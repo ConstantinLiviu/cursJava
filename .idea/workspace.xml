@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="" />
+    <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="added workspace xml file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +36,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "exercitii",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-20",
     "kotlin-language-version-configured": "true"
   }
@@ -58,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706811029811</updated>
     </task>
+    <task id="LOCAL-00001" summary="added workspace xml file">
+      <option name="closed" value="true" />
+      <created>1707409273455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707409273455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added workspace xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added workspace xml file" />
   </component>
 </project>

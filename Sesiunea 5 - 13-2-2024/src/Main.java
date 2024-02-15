@@ -64,7 +64,7 @@ public class Main {
         }
 
         // Create a program that checks if a user entered number is within a specific range (e.g., 1-100). Use relational operators for the checks.
-        if (firstNum>1 && firstNum<100) {
+        if (firstNum>=1 && firstNum<=100) {
             System.out.println("Numarul se afla in interval");
         }
 

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="added workspace xml file">
-      <change afterPath="$PROJECT_DIR$/Sesiunea 7 - 20-2-2024/Sesiunea 7 - 20-2-2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teme/src/TemaSesiunea7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,7 @@
     "Application.TemaSesiunea4.executor": "Run",
     "Application.TemaSesiunea5.executor": "Run",
     "Application.TemaSesiunea6.executor": "Run",
+    "Application.TemaSesiunea7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,14 +61,7 @@
       <recent name="W:\JAVA\cursJava\Teme\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 5 - 13-2-2024" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TemaSesiunea7">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sesiunea 6" />
@@ -97,13 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemaSesiunea7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea7" />
+      <module name="Teme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemaSesiunea7" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TemaSesiunea6" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.TemaSesiunea5" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>

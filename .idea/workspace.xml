@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="added workspace xml file">
-      <change afterPath="$PROJECT_DIR$/Sesiunea 8/Sesiunea 8.iml" afterDir="false" />
+    <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
+      <change afterPath="$PROJECT_DIR$/Sesiunea 10 - 29-2-2024/Sesiunea 10 - 29-2-2024.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,11 +41,13 @@
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TemaSesiunea10.executor": "Run",
     "Application.TemaSesiunea4.executor": "Run",
     "Application.TemaSesiunea5.executor": "Run",
     "Application.TemaSesiunea6.executor": "Run",
     "Application.TemaSesiunea7.executor": "Run",
     "Application.TemaSesiunea8.executor": "Run",
+    "Application.TemaSesiunea9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -55,7 +57,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,30 +65,23 @@
       <recent name="W:\JAVA\cursJava\Teme\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemaSesiunea8">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TemaSesiunea10">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 8" />
+      <module name="Sesiunea 9 - 27-2-2014" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 7 - 20-2-2024" />
+      <module name="Sesiunea 10 - 29-2-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemaSesiunea6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea6" />
-      <module name="Teme" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TemaSesiunea7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea7" />
+    <configuration name="TemaSesiunea10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea10" />
       <module name="Teme" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,13 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemaSesiunea9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea9" />
+      <module name="Teme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TemaSesiunea8" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TemaSesiunea7" />
+        <item itemvalue="Application.TemaSesiunea10" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TemaSesiunea6" />
+        <item itemvalue="Application.TemaSesiunea9" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.TemaSesiunea8" />
       </list>
     </recent_temporary>
   </component>
@@ -142,11 +144,37 @@
       <option name="project" value="LOCAL" />
       <updated>1707411330687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercitii sesiunea 9">
+      <option name="closed" value="true" />
+      <created>1709059208218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709059208218</updated>
+    </task>
+    <task id="LOCAL-00004" summary="exercitii sesiunea 9">
+      <option name="closed" value="true" />
+      <created>1709059239845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709059239845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tema sesiunea9">
+      <option name="closed" value="true" />
+      <created>1709064404656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709064404656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added workspace xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added workspace xml file" />
+    <MESSAGE value="exercitii sesiunea 9" />
+    <MESSAGE value="Tema sesiunea9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema sesiunea9" />
   </component>
 </project>

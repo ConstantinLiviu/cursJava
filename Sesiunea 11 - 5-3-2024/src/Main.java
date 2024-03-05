@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 public class Main {
     public static void main(String[] args) {
@@ -56,7 +57,12 @@ public class Main {
 
         LocalDateTime momentulDeIeri=LocalDateTime.of(2024,3,4,7,23);
 
-        LocalDate.now().minusDays(1);
+        System.out.println(LocalDate.now().minusDays(1));
+        LocalDateTime momentulDeIeri2 = LocalDateTime.of(2024,3,4,10,40,50);
+        System.out.println(momentulDeIeri.format(DateTimeFormatter.ofPattern("dd-MM-yyy hh:mm:ss")));
+
+
+
 
         // EXERCITII
         // 1. Create a Java program that replaces all occurrences of a specified character in a given string with another character and prints the new string.

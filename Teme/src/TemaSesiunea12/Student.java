@@ -1,5 +1,7 @@
+package TemaSesiunea12;
+
 public class Student {
-    // Clasa pentru TemaSesiunea12
+    // Clasa pentru TemaSesiunea12.TemaSesiunea12
     String nume;
     int varsta;
 

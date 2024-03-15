@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class TemaSesiunea14 {
+public class TemaSesiunea13Plus14 {
     public static void main(String[] args) {
         // 1. Add 5 hours and 30 minutes to the current time and print it.
         LocalDateTime dataOraCurente = LocalDateTime.now();

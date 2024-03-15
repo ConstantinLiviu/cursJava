@@ -7,7 +7,6 @@
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teme/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Teme/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Application.TemaSesiunea10.executor": "Run",
     "Application.TemaSesiunea11.executor": "Run",
     "Application.TemaSesiunea12.executor": "Run",
+    "Application.TemaSesiunea14.executor": "Run",
     "Application.TemaSesiunea4.executor": "Run",
     "Application.TemaSesiunea5.executor": "Run",
     "Application.TemaSesiunea6.executor": "Run",
@@ -68,13 +68,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.TemaSesiunea12">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 11 - 5-3-2024" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sesiunea 12 - 7-3-2024" />
@@ -82,9 +75,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemaSesiunea10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea10" />
-      <module name="Teme" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Sesiunea 14 - 14-3-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,7 +90,14 @@
       </method>
     </configuration>
     <configuration name="TemaSesiunea12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea12" />
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea12.TemaSesiunea12" />
+      <module name="Teme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemaSesiunea13Plus14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea13Plus14" />
       <module name="Teme" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,10 +106,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TemaSesiunea12" />
+        <item itemvalue="Application.TemaSesiunea13Plus14" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.TemaSesiunea11" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TemaSesiunea10" />
       </list>
     </recent_temporary>
   </component>

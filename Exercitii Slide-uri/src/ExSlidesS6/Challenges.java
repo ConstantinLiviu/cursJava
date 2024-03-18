@@ -1,20 +1,71 @@
-package ExSlidesS6;public class Challenges {
+package ExSlidesS6;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class Challenges {
     public static void main(String[] args) {
         // 1. Reverse a String
         // Description: Use the StringBuilder class to write a program that reverses an input string. For example, the
         // input "hello" should return "olleh".
+        StringBuilder reversed = new StringBuilder("hello");
+        System.out.println(reversed.reverse());
 
         // 2. Palindrome Checker
         // Description: Write a program that checks whether a given string is a palindrome using the StringBuilder
         // class. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward
         // and backward.
+        Scanner palindromeChecker = new Scanner(System.in);
+        System.out.println("Which word would you like to check?");
+        String toCheck = palindromeChecker.next();
+        StringBuilder toCheckReverse = new StringBuilder(toCheck);
+        toCheckReverse = toCheckReverse.reverse();
+        boolean isPalindrome = true;
+
+        for (int i = 0; i < toCheck.length(); i++) {
+            if (toCheck.charAt(i) != toCheckReverse.charAt(i)) {
+                isPalindrome = false;
+                break;
+            }
+        }
+        System.out.println(isPalindrome);
+        String confirmation = isPalindrome ? "is a palindrome" : "isn't a palindrome";
+        System.out.println("The word you input " + confirmation);
+
 
         // 3. Concatenate Multiple Strings
         // Description: Given a list of strings, use StringBuilder to concatenate them into a single string efficiently.
+        ArrayList<String> listaStringuri = new ArrayList<>();
+        Collections.addAll(listaStringuri, "Ana", "are", "mere");
+        StringBuilder finalString = new StringBuilder();
+
+        for (String word : listaStringuri) {
+            finalString.append(word);
+            if (!word.equals(listaStringuri.get(listaStringuri.size() - 1))) {
+                finalString.append(" ");
+            } else {
+                finalString.append(".");
+            }
+        }
+        System.out.println(finalString);
 
         // 4. Removing Vowels
         // Description: Create a Java program that uses the StringBuilder class to remove all the vowels from an input
         // string.
+        Scanner removeVowels = new Scanner(System.in);
+        System.out.println("Input a string");
+        String toEdit = removeVowels.next();
+        StringBuilder noVowels = new StringBuilder();
+        String vowels = "aeiouAEIOU";
+
+        for (int i = 0; i < toEdit.length(); i++) {
+            if (!vowels.contains(Character.toString(toEdit.charAt(i)))) {
+                noVowels.append(toEdit.charAt(i));
+            }
+        }
+
+        System.out.println(noVowels);
 
         // 5. Word Capitalizer
         // Description: Write a program that capitalizes the first letter of every word in a sentence using the
@@ -54,7 +105,7 @@ package ExSlidesS6;public class Challenges {
 
         // 14. Remove Comments from Code
         // Description: Create a Java program using StringBuilder that removes all single line (//) and multi-line (/*
-                // */) comments from a provided piece of code.
+        // */) comments from a provided piece of code.
 
         // 15. Anagram Checker
         // Description: Develop a program that checks if two provided strings are anagrams of each other using

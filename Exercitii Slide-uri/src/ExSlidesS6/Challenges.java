@@ -70,18 +70,44 @@ public class Challenges {
         // 5. Word Capitalizer
         // Description: Write a program that capitalizes the first letter of every word in a sentence using the
         // StringBuilder class.
+        String capitalize = "Ana are mere";
+        StringBuilder capitalized = new StringBuilder();
+        for (String cuvant : capitalize.split(" ")) {
+            capitalized.append(cuvant.substring(0, 1).toUpperCase()).append(cuvant.substring(1)).append(" ");
+        }
+        System.out.println(capitalized.toString().trim());
 
         // 6. String Replacement
         // Description: Use the StringBuilder class to replace every occurrence of a substring within a given string
         // with another substring. For instance, replace "cat" with "dog" in the string "The cat sat on the mat."
+        StringBuilder givenString = new StringBuilder("The cat sat on the mat");
+        givenString.replace(givenString.indexOf("cat"), givenString.indexOf("cat")+3, "dog");
+        System.out.println(givenString);
 
         // 7. Duplicate Character Remover
         // Description: Design a program using StringBuilder that removes duplicate characters from a string. For
         // example, "balloon" should become "balon".
+        StringBuilder removeDuplicates = new StringBuilder("balloon");
+        for (int i = 0; i < removeDuplicates.length(); i++) {
+            for (int j = i + 1; j < removeDuplicates.length(); j++) {
+                if (removeDuplicates.charAt(i) == removeDuplicates.charAt(j)) {
+                    removeDuplicates.deleteCharAt(j);
+                    j--;
+                }
+            }
+        }
+        System.out.println(removeDuplicates);
 
         // 8. Inserting at Index
         // Description: Write a Java program that inserts a given string into another string at a specified index
         // using the StringBuilder class.
+        String substringInsert = "Ana are mere";
+        StringBuilder concatString = new StringBuilder();
+        String givenSubstring = "multe";
+        int givenIndex = 8;
+
+        concatString.append(substringInsert.substring(0, givenIndex).concat(givenSubstring).concat(" ").concat(substringInsert.substring(givenIndex)));
+        System.out.println(concatString);
 
         // 9. Frequency Counter
         // Description: Using StringBuilder, write a program that counts the frequency of each character in a string.

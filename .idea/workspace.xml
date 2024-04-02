@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9" />
+    <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,40 +35,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemaSesiunea9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-20&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TemaSesiunea10.executor": "Run",
+    "Application.TemaSesiunea11.executor": "Run",
+    "Application.TemaSesiunea12.executor": "Run",
+    "Application.TemaSesiunea14.executor": "Run",
+    "Application.TemaSesiunea15Plus16.executor": "Run",
+    "Application.TemaSesiunea18Plus19.executor": "Run",
+    "Application.TemaSesiunea4.executor": "Run",
+    "Application.TemaSesiunea5.executor": "Run",
+    "Application.TemaSesiunea6.executor": "Run",
+    "Application.TemaSesiunea7.executor": "Run",
+    "Application.TemaSesiunea8.executor": "Run",
+    "Application.TemaSesiunea9.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "corretto-20",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="W:\JAVA\cursJava\Teme\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.TemaSesiunea18Plus19">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sesiunea 15 - 19-3-2024" />
@@ -72,41 +78,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 12 - 7-3-2024" />
+      <module name="Sesiunea 16 - 21-3-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 14 - 14-3-2024" />
+      <module name="Sesiunea 18 - 28-3-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemaSesiunea12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea12.TemaSesiunea12" />
+    <configuration name="TemaSesiunea15Plus16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea15Plus16.TemaSesiunea15Plus16" />
       <module name="Teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemaSesiunea15Plus16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemaSesiunea13Plus14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea13Plus14" />
+    <configuration name="TemaSesiunea18Plus19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea18Plus19.TemaSesiunea18Plus19" />
       <module name="Teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemaSesiunea18Plus19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TemaSesiunea12" />
-        <item itemvalue="Application.TemaSesiunea13Plus14" />
+        <item itemvalue="Application.TemaSesiunea18Plus19" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.TemaSesiunea15Plus16" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>

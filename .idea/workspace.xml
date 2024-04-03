@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -70,10 +71,10 @@
       <recent name="W:\JAVA\cursJava\Teme\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemaSesiunea18Plus19">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TemaSesiunea15Plus16">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 15 - 19-3-2024" />
+      <module name="Sesiunea 19 - 2-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="TemaSesiunea18Plus19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea18Plus19.TemaSesiunea18Plus19" />
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea17Plus18.TemaSesiunea18Plus19" />
       <module name="Teme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TemaSesiunea18Plus19.*" />
+          <option name="PATTERN" value="TemaSesiunea17Plus18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemaSesiunea15Plus16" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.TemaSesiunea18Plus19" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TemaSesiunea15Plus16" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>

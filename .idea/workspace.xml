@@ -72,7 +72,7 @@
       <recent name="W:\JAVA\cursJava\Teme\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemaSesiunea19Plus20">
+  <component name="RunManager" selected="Application.TemaSesiunea21Plus22">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sesiunea 20 - 4-4-2024" />
@@ -80,9 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 19 - 2-4-2024" />
+      <module name="Sesiunea 21 - 8-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TemaSesiunea15Plus16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TemaSesiunea18Plus19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemaSesiunea17Plus18.TemaSesiunea18Plus19" />
-      <module name="Teme" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TemaSesiunea17Plus18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemaSesiunea21Plus22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea21Plus22.TemaSesiunea21Plus22" />
+      <module name="Teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemaSesiunea21Plus22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemaSesiunea21Plus22" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TemaSesiunea19Plus20" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TemaSesiunea15Plus16" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.TemaSesiunea18Plus19" />
       </list>
     </recent_temporary>
   </component>

@@ -1,8 +1,6 @@
 package ExSlidesS6;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Scanner;
+import java.util.*;
 
 public class Challenges {
     public static void main(String[] args) {
@@ -111,10 +109,70 @@ public class Challenges {
 
         // 9. Frequency Counter
         // Description: Using StringBuilder, write a program that counts the frequency of each character in a string.
+        HashMap<Character, Integer> frequencyMap = new HashMap<>();
+        StringBuilder testString = new StringBuilder("onomatopee");
+        for(int i=0; i<testString.length(); i++) {
+            if (frequencyMap.containsKey(testString.charAt(i))) {
+                frequencyMap.put(testString.charAt(i), frequencyMap.get(testString.charAt(i))+1);
+            } else {
+                frequencyMap.put(testString.charAt(i), 1);
+            }
+        }
+        System.out.println(frequencyMap);
 
         // 10. Morse Code Converter
         // Description: Create a program that takes in a string and converts it to Morse code using the StringBuilder
         // class. For simplicity, you can assume the input string only contains alphabets and numbers.
+        Map<Character, String> morseCodeMap = new HashMap<>();
+        morseCodeMap.put('A', ".-");
+        morseCodeMap.put('B', "-...");
+        morseCodeMap.put('C', "-.-.");
+        morseCodeMap.put('D', "-..");
+        morseCodeMap.put('E', ".");
+        morseCodeMap.put('F', "..-.");
+        morseCodeMap.put('G', "--.");
+        morseCodeMap.put('H', "....");
+        morseCodeMap.put('I', "..");
+        morseCodeMap.put('J', ".---");
+        morseCodeMap.put('K', "-.-");
+        morseCodeMap.put('L', ".-..");
+        morseCodeMap.put('M', "--");
+        morseCodeMap.put('N', "-.");
+        morseCodeMap.put('O', "---");
+        morseCodeMap.put('P', ".--.");
+        morseCodeMap.put('Q', "--.-");
+        morseCodeMap.put('R', ".-.");
+        morseCodeMap.put('S', "...");
+        morseCodeMap.put('T', "-");
+        morseCodeMap.put('U', "..-");
+        morseCodeMap.put('V', "...-");
+        morseCodeMap.put('W', ".--");
+        morseCodeMap.put('X', "-..-");
+        morseCodeMap.put('Y', "-.--");
+        morseCodeMap.put('Z', "--..");
+        morseCodeMap.put('0', "-----");
+        morseCodeMap.put('1', ".----");
+        morseCodeMap.put('2', "..---");
+        morseCodeMap.put('3', "...--");
+        morseCodeMap.put('4', "....-");
+        morseCodeMap.put('5', ".....");
+        morseCodeMap.put('6', "-....");
+        morseCodeMap.put('7', "--...");
+        morseCodeMap.put('8', "---..");
+        morseCodeMap.put('9', "----.");
+        morseCodeMap.put(' ', " // ");
+
+        StringBuilder codedMessage = new StringBuilder();
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.println("Input text below:");
+        String text = userInput.nextLine().toUpperCase();
+
+        for(int i=0; i<text.length(); i++) {
+            codedMessage.append(morseCodeMap.get(text.charAt(i)));
+        }
+
+        System.out.println(codedMessage);
 
         // 11. Encode and Decode using Caesar Cipher
         // Description: Implement a Caesar Cipher encoder and decoder using the StringBuilder class. The Caesar Cipher

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
-      <change afterPath="$PROJECT_DIR$/Sesiunea 22 - 11-4-2024/Sesiunea 22 - 11-4-2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesiunea 23 - 15-4-2024/Sesiunea 23 - 15-4-2024.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesiunea 23 - 15-4-2024/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sesiunea 23 - 15-4-2024/src/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,17 +74,17 @@
       <recent name="W:\JAVA\cursJava\Teme\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 20 - 4-4-2024" />
+      <module name="Sesiunea 22 - 11-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 22 - 11-4-2024" />
+      <module name="Sesiunea 23 - 15-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.TemaSesiunea21Plus22" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TemaSesiunea19Plus20" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>

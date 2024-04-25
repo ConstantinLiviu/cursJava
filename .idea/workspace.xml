@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
-      <change afterPath="$PROJECT_DIR$/Sesiunea 25 - 18-4-2024/Sesiunea 25 - 18-4-2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -17,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,6 +46,7 @@
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TemaSesiunea10.executor": "Run",
     "Application.TemaSesiunea11.executor": "Run",
@@ -57,6 +62,9 @@
     "Application.TemaSesiunea7.executor": "Run",
     "Application.TemaSesiunea8.executor": "Run",
     "Application.TemaSesiunea9.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.cursDemo [clean].executor": "Run",
+    "Maven.cursDemo [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,7 +85,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sesiunea 24 - 16-4-2024" />
@@ -85,16 +93,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 22 - 11-4-2024" />
+      <module name="Sesiunea 23 - 15-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 23 - 15-4-2024" />
+      <module name="Sesiunea 26 - 25-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TemaSesiunea23Plus24.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>

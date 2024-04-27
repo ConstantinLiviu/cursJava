@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
-      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesiunea 26 SpringMaven - 25-4-2024/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +50,7 @@
     "Application.TemaSesiunea18Plus19.executor": "Run",
     "Application.TemaSesiunea19Plus20.executor": "Run",
     "Application.TemaSesiunea23Plus24.Main.executor": "Run",
+    "Application.TemaSesiunea25Plus26.Main.executor": "Run",
     "Application.TemaSesiunea4.executor": "Run",
     "Application.TemaSesiunea5.executor": "Run",
     "Application.TemaSesiunea6.executor": "Run",
@@ -85,17 +80,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.TemaSesiunea25Plus26.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sesiunea 24 - 16-4-2024" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 23 - 15-4-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemaSesiunea25Plus26.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaSesiunea25Plus26.Main" />
+      <module name="Teme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TemaSesiunea25Plus26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemaSesiunea25Plus26.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TemaSesiunea23Plus24.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>

@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,43 +36,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main (1).executor": "Run",
-    "Application.Main (2).executor": "Run",
-    "Application.Main (3).executor": "Run",
-    "Application.Main (4).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.TemaSesiunea10.executor": "Run",
-    "Application.TemaSesiunea11.executor": "Run",
-    "Application.TemaSesiunea12.executor": "Run",
-    "Application.TemaSesiunea14.executor": "Run",
-    "Application.TemaSesiunea15Plus16.executor": "Run",
-    "Application.TemaSesiunea18Plus19.executor": "Run",
-    "Application.TemaSesiunea19Plus20.executor": "Run",
-    "Application.TemaSesiunea23Plus24.Main.executor": "Run",
-    "Application.TemaSesiunea25Plus26.Main.executor": "Run",
-    "Application.TemaSesiunea4.executor": "Run",
-    "Application.TemaSesiunea5.executor": "Run",
-    "Application.TemaSesiunea6.executor": "Run",
-    "Application.TemaSesiunea7.executor": "Run",
-    "Application.TemaSesiunea8.executor": "Run",
-    "Application.TemaSesiunea9.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.cursDemo [clean].executor": "Run",
-    "Maven.cursDemo [install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "corretto-20",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea15Plus16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea18Plus19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea19Plus20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea23Plus24.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea25Plus26.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemaSesiunea9.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cursDemo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cursDemo [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="W:\JAVA\cursJava\Teme\src" />

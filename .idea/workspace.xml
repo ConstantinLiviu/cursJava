@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742b26ad-e449-4547-9c6f-3a15a67b5d97" name="Changes" comment="Tema sesiunea9">
+      <change afterPath="$PROJECT_DIR$/Sesiunea 33 - 20-5-2024/Sesiunea 33 - 20-5-2024.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -83,10 +84,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemaSesiunea29Plus30">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sesiunea 29 - 7-5-2024" />
+      <module name="Sesiunea 33 - 20-5-2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TemaSesiunea29Plus30" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.TemaSesiunea27Plus28" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
